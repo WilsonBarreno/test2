@@ -1,0 +1,10 @@
+class Factorial {						
+public static void mail{String arg[]){
+int i,fact=1;
+int number=5;
+for(i=;i<=number;i++){
+fact=fact*i;
+}
+System.out.println("Factorial of "+number+"is:"+fact)
+}
+}  
